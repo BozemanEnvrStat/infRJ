@@ -2,8 +2,6 @@ Package: infRJ
 Title: Run informed RJ model selection for spatial scales
 Version: 0.0.0.9000
 Authors@R: 
-    person("Andrew", "Hoegh", , "andrew.hoegh@montana.edu", role = c("aut", "cre"),
-           comment = c(ORCID = "0000-0003-1176-4965"))
 Description: Extracts geospatial landuse data, ellicits priors over models, 
     computes posterior model probabilities associated with concentric circles of increasing distances.
 License: MIT + file LICENSE
@@ -27,8 +25,8 @@ Imports:
     shiny,
     tibble,
     tidyr
-URL: https://github.com/andyhoegh/infRJ
-BugReports: https://github.com/andyhoegh/infRJ/issues
+URL: https://github.com/BozemanEnvrStat/infRJ
+BugReports: https://github.com/BozemanEnvrStat/infRJ/issues
 VignetteBuilder: knitr
 Depends: 
     R (>= 2.10)
