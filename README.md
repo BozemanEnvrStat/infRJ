@@ -19,11 +19,3 @@ You can install the development version of infRJ from
 devtools::install_github("BozemanEnvrStat/infRJ")
 ```
 
-## Example
-
-This is a basic example which shows you how to solve a common problem:
-
-``` r
-library(infRJ)
-## basic example code
-```
