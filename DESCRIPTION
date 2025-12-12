@@ -2,7 +2,8 @@ Package: infRJ
 Title: Run informed RJ model selection for spatial scales
 Version: 0.0.0.9000
 Authors@R: 
-Description: Extracts geospatial landuse data, ellicits priors over models, 
+    person("Bozeman", "EnvrStat", , "BozemanEnvrStat@montana.edu", role = c("aut", "cre"))
+DeDescription: Extracts geospatial landuse data, ellicits priors over models, 
     computes posterior model probabilities associated with concentric circles of increasing distances.
 License: MIT + file LICENSE
 Encoding: UTF-8
