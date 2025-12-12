@@ -16,7 +16,7 @@ You can install the development version of infRJ from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("andyhoegh/infRJ")
+devtools::install_github("BozemanEnvrStat/infRJ")
 ```
 
 ## Example
